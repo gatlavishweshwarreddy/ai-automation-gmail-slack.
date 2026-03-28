@@ -19,7 +19,7 @@ This project automates email summaries from Gmail into Slack using n8n.
 - Trigger node for event-driven automation
 
 ## Demo
-[Watch 24-second demo](YourVideoLinkHere)
+[Watch 24-second demo]((https://bit.ly/4sDNlEf))
 
 ## How to Run
 1. **Import the workflow JSON** into your n8n instance.  
